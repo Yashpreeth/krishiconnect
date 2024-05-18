@@ -1,4 +1,4 @@
-# KrishiConnect  
+![image](https://github.com/Anushkabh/krishiconnect/assets/85815769/d3bfcae5-2536-47de-bf49-22fca68f9c90)# KrishiConnect  
 ## Revolutionizing Agriculture Consumer Industry
 ## 👇About KrishiConnect
 
@@ -18,8 +18,11 @@
 ## 📌 Tech Stack
 [![linkedin](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/yashpreeth-nijalinge-aa8a36214/)[![portfolio](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://linkedin.com/)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)[![twitter](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://twitter.com/)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 # 📸Screenshots
-![1](1.png)  ![2](2.png) ![3](3.png) ![4](4.png)  ![5](5.png) ![6](6.png)
+<!--![1](1.png)  ![2](2.png) ![3](3.png) ![4](4.png)  ![5](5.png) ![6](6.png)-->
 
+
+
+![krishiconnect](https://private-user-images.githubusercontent.com/110047194/331260538-321366f8-87a6-48de-887b-beb0b34c394b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwMTU0MDEsIm5iZiI6MTcxNjAxNTEwMSwicGF0aCI6Ii8xMTAwNDcxOTQvMzMxMjYwNTM4LTMyMTM2NmY4LTg3YTYtNDhkZS04ODdiLWJlYjBiMzRjMzk0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQwNjUxNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjI5ZjhiNmY1ZTQzMDFiZjg5ODE3MzY5M2Q2NTkzZjExYTRlMmZmMDJkMzQ4YjExODI4MDliOTQzY2RiNTI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WdT-lfjCGF8pMsKImtyOohNum7tT8JjrsE0xB4DQP6k)
 
 
 <!-- ![Home Page](https://photos.app.goo.gl/PF6nTxrAWw4k6zA78)
